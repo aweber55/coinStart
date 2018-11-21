@@ -17,7 +17,7 @@ class App extends Component {
       {/* <Row> */}
         <header className="App-header">
         {/* <Col size="md-12"> */}
-          <img src={logo} className="App-logo" alt="logo" />
+          {/* <img src={logo} className="App-logo" alt="logo" /> */}
           {/* </Col> */}
          
           <p>
