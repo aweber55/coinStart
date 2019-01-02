@@ -21,16 +21,16 @@ class App extends Component {
           {/* </Col> */}
          
           <p>
-            Edit <code>src/App.js</code> and save to reload.
+           Time to check your coins.
           </p>
-          <button type="button" className="btn btn-danger">Primary</button>
+          <button type="button" className="btn btn-danger">Start Here</button>
           <a
             className="App-link"
             href="https://reactjs.org"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Change your currency
+            Change your currency and explore the World
           </a>
          <a href="/Home">home</a>
         </header>
