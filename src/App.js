@@ -21,7 +21,8 @@ class App extends Component {
           {/* </Col> */}
          
           <p>
-           Time to check your coins.
+           Time to check your coins or check out the currency exchange.
+
           </p>
           <button type="button" className="btn btn-danger">Start Here</button>
           <a
